@@ -1,7 +1,6 @@
-# My-Data-Science-Projects
 Hacker News Project 
 
-We are eploring Hacker News posts, specifically, the comparison of two different types of posts, Ask HN and Show HN posts.
+We are exploring Hacker News posts, specifically, the comparison of two different types of posts, Ask HN and Show HN posts.
 
 We will campare these two types of posts to learn the following:
 Do Ask HN or Show HN recieve more comments on average?
