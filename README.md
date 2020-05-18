@@ -8,6 +8,7 @@ We are working with a reduced dataset, shrunk from 300,000 to 20,000 rows. This 
 
 https://github.com/NatalieHaronitou/My-Data-Science-Projects/blob/master/Guided%20Project_%20Exploring%20Hacker%20News%20Posts-2/Basics.ipynb
 
+******************************************************************************************************************************
 
 
 Exploring Ebay Car Sales Data: Kleinanseigen Dataset
