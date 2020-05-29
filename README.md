@@ -12,7 +12,7 @@ https://github.com/NatalieHaronitou/My-Data-Science-Projects/blob/master/Guided%
 
 Visualizing Earnings Based On College Majors
 
-In this guided project, I'll explore how using the pandas plotting functionality along with the Jupyter notebook interface allows exploring data quickly using visualizations.
+In this project, I'll explore how using the pandas plotting functionality along with the Jupyter notebook interface allows exploring data quickly using visualizations.
 
 I'll be working with a dataset on the job outcomes of students who graduated from college between 2010 and 2012. The original data on job outcomes was released by American Community Survey, which conducts surveys and aggregates the data. FiveThirtyEight cleaned the dataset and released it on their Github repo.
 
@@ -25,6 +25,16 @@ Predominantly female?
 Using histograms Which category of majors have the most students? Using bar plots. I'll explore how to do these and more while primarily working in pandas.
 
 https://github.com/NatalieHaronitou/My-Data-Science-Projects/blob/master/Guided%20Project_%20Visualizing%20Earnings%20Based%20On%20College%20Majors/Basics.ipynb
+
+******************************************************************************************************************************
+
+Visualizing The Gender Gap In College Degrees
+
+In this project, I'll extend on previous work:visualizing the gender gap across college degrees.
+
+There was a focus on STEM degrees but now I will generate line charts to compare across all degree categories. In the last step of this project, I'll explore how to export the final diagram I create as an image file.
+
+https://github.com/NatalieHaronitou/My-Data-Science-Projects/blob/master/Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees/Basics.ipynb
 
 ******************************************************************************************************************************
 
