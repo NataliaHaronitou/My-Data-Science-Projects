@@ -1,5 +1,6 @@
 Hacker News Project 
 
+
 We are exploring Hacker News posts, specifically, the comparison of two different types of posts, Ask HN and Show HN posts.
 We will campare these two types of posts to learn the following:
 Do Ask HN or Show HN recieve more comments on average?
@@ -11,6 +12,7 @@ https://github.com/NatalieHaronitou/My-Data-Science-Projects/blob/master/Guided%
 ******************************************************************************************************************************
 
 Visualizing Earnings Based On College Majors
+
 
 In this project, I'll explore how using the pandas plotting functionality along with the Jupyter notebook interface allows exploring data quickly using visualizations.
 
@@ -30,6 +32,7 @@ https://github.com/NatalieHaronitou/My-Data-Science-Projects/blob/master/Guided%
 
 Visualizing The Gender Gap In College Degrees
 
+
 In this project, I'll extend on previous work:visualizing the gender gap across college degrees.
 
 There was a focus on STEM degrees but now I will generate line charts to compare across all degree categories. In the last step of this project, I'll explore how to export the final diagram I create as an image file.
@@ -39,6 +42,7 @@ https://github.com/NatalieHaronitou/My-Data-Science-Projects/blob/master/Visuali
 ******************************************************************************************************************************
 
 Exploring Ebay Car Sales Data: Kleinanseigen Dataset
+
 
 We'll work with a dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website.
 The dataset was originally scraped and uploaded to Kaggle. A few modifications were made from the original dataset that was uploaded to Kaggle.
