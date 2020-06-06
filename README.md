@@ -44,6 +44,30 @@ https://github.com/NatalieHaronitou/My-Data-Science-Projects/blob/master/Visuali
 
 ******************************************************************************************************************************
 
+Clean and Analyze Employee Exit Surveys
+
+
+
+In this project, I'll play the role of data analyst and pretend our stakeholders want to know the following:
+Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer? Are younger employees resigning due to some kind of dissatisfaction? What about older employees? They want to combine the results for both surveys to answer these questions. However, although both used the same survey template, one of them customized some of the answers.
+
+A data dictionary wasn't provided with the dataset. In a job setting, I'd make sure to meet with a manager to confirm the definitions of the data. For this project, I'll use general knowledge to define the columns.
+
+Below is a preview of a couple columns I'll work with from the dete_survey.csv:
+ID: An id used to identify the participant of the survey
+SeparationType: The reason why the person's employment ended
+Date: The year or month the person's employment ended DETE
+Start Date: The year the person began employment with the DETE
+
+Below is a preview of a couple columns we'll work with from the tafe_survey.csv:
+Record ID: An id used to identify the participant of the survey
+Reason for ceasing employment: The reason why the person's employment ended LengthofServiceOverall
+Overall Length of Service at Institute (in years): The length of the person's employment (in years)
+
+https://github.com/NatalieHaronitou/My-Data-Science-Projects/blob/master/Guided%20Project_%20Clean%20And%20Analyze%20Employee%20Exit%20Surveys%20copy/Basics.ipynb
+
+******************************************************************************************************************************
+
 Exploring Ebay Car Sales Data: Kleinanseigen Dataset
 
 
